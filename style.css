@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: rgb(91, 175, 253);
+}
+
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+    color:black;
+    padding: 40px;
+    font-size: 60px;;
+}
+
+main, body {
+    background-color: rgb(167, 212, 255);
+    text-align: center;
+}
+
+main {
+    margin: 40px;
+}
+
+th {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.tag {
+    font-size: 25px;
+}
+
+td {
+    padding: 15px;
+    width: 300px;
+    font-size: 20px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
